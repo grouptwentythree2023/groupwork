@@ -1,5 +1,7 @@
-from django.shortcuts import render
+from django.shortcuts import render, redirect
 from django.contrib.auth import authenticate, login, logout
+from django.contrib import messages
+from django.urls import reverse
 
 # Create your views here.
 def Login(request):
@@ -9,9 +11,11 @@ def Login(request):
         
         user = authenticate(request, username=username, password=password)
         if user:
-            print('Authenticated')
+            login(user)
+            messages.success(request, 'Login successfull')
+            return redirect(reverse('dashboard'))
         else:
-            print('Not authenticated')
+            messages.error(request, 'Invalid username or password')
         
     return render(request, 'accounts/login.html')
 
