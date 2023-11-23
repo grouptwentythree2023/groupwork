@@ -1,0 +1,53 @@
+{% extends 'root.html' %}
+{% load static %}
+{% block content %}
+  <!-- Main content -->
+  <style>
+    .content {
+      padding: 20px;
+    }
+  </style>
+
+  <section class="content">
+    <div class="row">
+      <div class="col-xs-12">
+        <div class="box">
+          <div class="box-header with-border">
+            <h2></h2>
+            <h2></h2>
+          </div>
+          <div class="box-body">
+            <table id="example1" class="table table-bordered">
+              <thead></thead>
+              <tbody>
+                <tr></tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+{% endblock %}
+
+<!-- New Block -->
+
+{% block script %}
+  <script>
+    $(document).on('click', '.print', function (e) {
+      $('.fa-eye').hide()
+      e.preventDefault()
+      $('.mystock').printThis({
+        importCSS: true,
+        importStyle: true,
+        pageTitle: 'Stock/System Manager: {{request.user}}',
+        removeInline: false,
+        printContainer: true,
+        removeInline: false,
+        printDelay: 333,
+        header: null,
+        formValues: true
+      })
+    })
+  </script>
+{% endblock %}

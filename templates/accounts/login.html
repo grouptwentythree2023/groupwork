@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Pharmacy Dashboard</title>
+    <style>
+      body {
+        background-color: #ffffff;
+      }
+      .container {
+        width: 400px;
+        margin: 0 auto;
+        background-color: #ffffff;
+        padding: 20px;
+        box-shadow: 0px 0px 10px 0px #c0c0c0;
+        margin-top: 100px;
+        //background-color: #962A5A;
+      }
+      
+      h1 {
+        text-align: center;
+        margin-bottom: 30px;
+      }
+      
+      form {
+        margin-bottom: 20px;
+      }
+      
+      label {
+        display: block;
+        margin-bottom: 5px;
+      }
+      
+      input[type='text'],
+      input[type='password'] {
+        width: 80%;
+        padding: 12px;
+        margin-bottom: 20px;
+        border: 1px solid #c0c0c0;
+        border-radius: 5px;
+      }
+      
+      input[type='submit'] {
+        background-color: #962a5a;
+        color: #ffffff;
+        padding: 12px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+      }
+      
+      input[type='submit']:hover {
+        background-color: #4caf50;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <center>
+        {% if messages %}
+          {% for message in messages %}
+            <p style="color: red;">{{ message }}</p>
+          {% endfor %}
+        {% endif %}
+      </center>
+      <h1></h1>
+      <center>
+        <form action="{% url 'accounts' %}" method="POST">
+          {% csrf_token %}
+          <label>Username:</label>
+          <input type="text" name="username" required />
+          <label>Password:</label>
+          <input type="password" name="password" required />
+          <input type="submit" value="Log In" />
+        </form>
+      </center>
+    </div>
+  </body>
+
+  {% if messages %}
+    {% for message in messages %}
+      <!--  <script>
+            swal("{{ message.tags|title }}", "{{ message }}", "{{ message.tags }}");
+        </script>  -->
+
+      <script>
+                toastr.{{ message.tags }}('{{ message }}', '{{ message.tags|title }}');
+            </script>
+    {% endfor %}
+  {% endif %}
+</html>
