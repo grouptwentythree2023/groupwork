@@ -83,7 +83,7 @@
         </script>  -->
 
       <script>
-                toastr.{{ message.tags }}('{{ message }}', '{{ message.tags|title }}');
+                {% comment %} toastr.{{ message.tags }}('{{ message }}', '{{ message.tags|title }}'); {% endcomment %}
             </script>
     {% endfor %}
   {% endif %}
