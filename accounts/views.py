@@ -5,13 +5,15 @@ from django.urls import reverse
 
 # Create your views here.
 def Login(request):
-    if request.user.is_authenticated:
-        messages.success(request, 'You are already logged in')
-        return redirect(reverse('dashboard'))
+    # if request.user.is_authenticated:
+    #     messages.success(request, 'You are already logged in')
+    #     return redirect(reverse('dashboard'))
     
     if request.method == 'POST':
         username = request.POST.get('username')
         password = request.POST.get('password')
+        
+        print(username, password)
         
         user = authenticate(request, username=username, password=password)
         if user is not None:
@@ -28,5 +30,5 @@ def Login(request):
 
 def logout_user(request):
     logout(request)
-    return redirect(reverse('dashboard'))
+    return redirect(reverse('login'))
     
