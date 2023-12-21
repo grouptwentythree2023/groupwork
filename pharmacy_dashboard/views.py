@@ -22,22 +22,22 @@ from alpha_vantage.foreignexchange import ForeignExchange
 # Create your views here.
 def dashboard(request):
 
-    image_base64 = Stock_Data()
+    # image_base64 = Stock_Data()
     competitor_plot = Stock_of_Competitors()
-    exchange_rate_text = Exchange_Rate()
+    # exchange_rate_text = Exchange_Rate()
     
     retail_sale = gdp_core_markets()
-    trending_scks = trending_sickness()
-    vaccination_data = vaccination()
+    # trending_scks = trending_sickness()
+    # vaccination_data = vaccination()
 
     
     context = {
-                'image_base64': image_base64,
-                'exchange_rate_text':exchange_rate_text,
+                # 'image_base64': image_base64,
+                # 'exchange_rate_text':exchange_rate_text,
                 'competitor_plot':competitor_plot,
                 'retail_sale':retail_sale,
-                'trending_scks':trending_scks,
-                'vaccination_data': vaccination_data,
+                # 'trending_scks':trending_scks,
+                # 'vaccination_data': vaccination_data,
                }
 
     

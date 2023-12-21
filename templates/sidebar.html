@@ -7,9 +7,19 @@
   }
 </style>
 
-<aside class="main-sidebar" style="background-color: #d303fc;">
+<aside class="main-sidebar" style="background-color: #962A5A;">
   <!-- sidebar: style can be found in sidebar.less -->
   <section class="sidebar">
+    <!-- Sidebar user panel -->
+    {% comment %} <div class="user-panel">
+      <div class="pull-left image">
+        <img src="{% static 'images/tws9Vp6.jpg' %}" class="img-circle" alt="User Image">
+      </div>
+      <div class="pull-left info">
+        <p> {{ request.user }} </p>
+      </div>
+    </div> {% endcomment %}
+    <!-- sidebar menu: : style can be found in sidebar.less -->
 
     <!-- Sidebar Menu -->
     <div class="sidebar-menu">
@@ -20,6 +30,8 @@
                 <span>Dashboard</span>
           </a>
         </li>
+
+
 
         <li>
           <a href="{% url 'logout' %}">
