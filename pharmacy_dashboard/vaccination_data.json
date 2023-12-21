@@ -1,0 +1,4202 @@
+[
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 3,
+        "patient_id": 2709,
+        "vaccination_date": "2023-08-24"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 3,
+        "patient_id": 8827,
+        "vaccination_date": "2023-12-16"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 2,
+        "patient_id": 3017,
+        "vaccination_date": "2023-01-29"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 2,
+        "patient_id": 7025,
+        "vaccination_date": "2023-05-31"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 6489,
+        "vaccination_date": "2023-10-14"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 7396,
+        "vaccination_date": "2023-04-19"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 1,
+        "patient_id": 4960,
+        "vaccination_date": "2023-10-11"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 2,
+        "patient_id": 3928,
+        "vaccination_date": "2023-07-18"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 9514,
+        "vaccination_date": "2023-08-17"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 2,
+        "patient_id": 5631,
+        "vaccination_date": "2023-11-12"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 2,
+        "patient_id": 6721,
+        "vaccination_date": "2022-12-21"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 4080,
+        "vaccination_date": "2023-04-11"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 2183,
+        "vaccination_date": "2023-04-30"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 2,
+        "patient_id": 3519,
+        "vaccination_date": "2023-12-14"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 2998,
+        "vaccination_date": "2023-12-15"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 1,
+        "patient_id": 9934,
+        "vaccination_date": "2023-07-26"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 6629,
+        "vaccination_date": "2023-10-21"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 4714,
+        "vaccination_date": "2023-05-15"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 1,
+        "patient_id": 7316,
+        "vaccination_date": "2023-06-02"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 7874,
+        "vaccination_date": "2023-07-10"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 2,
+        "patient_id": 9394,
+        "vaccination_date": "2023-04-19"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 3942,
+        "vaccination_date": "2023-03-02"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 2,
+        "patient_id": 8070,
+        "vaccination_date": "2023-05-10"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 7345,
+        "vaccination_date": "2023-03-18"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 2,
+        "patient_id": 1735,
+        "vaccination_date": "2023-07-14"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 8522,
+        "vaccination_date": "2023-04-15"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 4355,
+        "vaccination_date": "2023-07-02"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 1477,
+        "vaccination_date": "2023-02-07"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 3,
+        "patient_id": 7593,
+        "vaccination_date": "2023-08-27"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 8646,
+        "vaccination_date": "2023-08-22"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 1823,
+        "vaccination_date": "2023-05-11"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 6265,
+        "vaccination_date": "2023-04-07"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 3605,
+        "vaccination_date": "2023-04-21"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 3270,
+        "vaccination_date": "2023-08-17"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 2463,
+        "vaccination_date": "2023-05-14"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 2079,
+        "vaccination_date": "2023-06-15"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 4949,
+        "vaccination_date": "2023-10-09"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 2,
+        "patient_id": 4263,
+        "vaccination_date": "2023-05-15"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 3,
+        "patient_id": 7972,
+        "vaccination_date": "2022-12-25"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 4681,
+        "vaccination_date": "2023-12-06"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 1711,
+        "vaccination_date": "2023-02-27"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 7022,
+        "vaccination_date": "2023-08-25"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 1371,
+        "vaccination_date": "2023-03-31"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 5340,
+        "vaccination_date": "2023-08-21"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 4163,
+        "vaccination_date": "2023-11-17"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 1853,
+        "vaccination_date": "2023-04-26"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 3596,
+        "vaccination_date": "2023-09-14"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 1201,
+        "vaccination_date": "2023-12-11"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 2620,
+        "vaccination_date": "2023-04-01"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 1,
+        "patient_id": 5079,
+        "vaccination_date": "2023-05-09"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 1877,
+        "vaccination_date": "2023-08-08"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 2,
+        "patient_id": 2245,
+        "vaccination_date": "2022-12-22"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 6451,
+        "vaccination_date": "2023-08-24"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 1,
+        "patient_id": 5533,
+        "vaccination_date": "2023-02-11"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 4339,
+        "vaccination_date": "2023-12-01"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 1,
+        "patient_id": 2723,
+        "vaccination_date": "2023-08-19"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 3387,
+        "vaccination_date": "2023-01-12"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 2,
+        "patient_id": 6362,
+        "vaccination_date": "2023-02-11"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 5088,
+        "vaccination_date": "2023-05-06"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 1,
+        "patient_id": 9175,
+        "vaccination_date": "2023-10-07"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 3,
+        "patient_id": 3788,
+        "vaccination_date": "2023-01-30"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 1,
+        "patient_id": 4799,
+        "vaccination_date": "2023-04-24"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 9183,
+        "vaccination_date": "2023-11-14"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 2,
+        "patient_id": 4098,
+        "vaccination_date": "2023-06-28"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 9058,
+        "vaccination_date": "2023-08-25"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 1,
+        "patient_id": 1641,
+        "vaccination_date": "2023-12-21"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 5315,
+        "vaccination_date": "2023-04-28"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 6663,
+        "vaccination_date": "2023-03-06"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 3,
+        "patient_id": 7034,
+        "vaccination_date": "2023-05-27"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 8546,
+        "vaccination_date": "2023-03-29"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 2088,
+        "vaccination_date": "2023-01-05"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 3334,
+        "vaccination_date": "2023-05-05"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 6331,
+        "vaccination_date": "2023-02-28"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 2648,
+        "vaccination_date": "2023-10-21"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 7486,
+        "vaccination_date": "2023-03-11"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 2266,
+        "vaccination_date": "2023-11-29"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 2,
+        "patient_id": 2365,
+        "vaccination_date": "2023-02-02"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 9347,
+        "vaccination_date": "2023-10-12"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 1,
+        "patient_id": 6920,
+        "vaccination_date": "2023-10-12"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 3904,
+        "vaccination_date": "2023-06-10"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 8896,
+        "vaccination_date": "2023-09-07"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 2439,
+        "vaccination_date": "2023-06-02"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 1,
+        "patient_id": 6281,
+        "vaccination_date": "2023-06-07"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 9909,
+        "vaccination_date": "2023-05-01"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 3260,
+        "vaccination_date": "2023-06-26"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 9580,
+        "vaccination_date": "2023-01-05"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 2,
+        "patient_id": 8051,
+        "vaccination_date": "2023-05-11"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 2,
+        "patient_id": 6787,
+        "vaccination_date": "2023-12-02"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 4411,
+        "vaccination_date": "2023-04-05"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 2,
+        "patient_id": 3932,
+        "vaccination_date": "2023-04-29"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 3,
+        "patient_id": 3102,
+        "vaccination_date": "2023-06-30"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 2,
+        "patient_id": 4987,
+        "vaccination_date": "2023-06-03"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 3,
+        "patient_id": 3163,
+        "vaccination_date": "2023-06-25"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 2807,
+        "vaccination_date": "2023-07-02"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 1,
+        "patient_id": 1200,
+        "vaccination_date": "2023-07-29"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 1,
+        "patient_id": 6332,
+        "vaccination_date": "2023-08-18"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 2,
+        "patient_id": 4634,
+        "vaccination_date": "2023-01-13"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 3615,
+        "vaccination_date": "2023-08-04"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 1,
+        "patient_id": 4190,
+        "vaccination_date": "2023-06-14"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 3,
+        "patient_id": 2748,
+        "vaccination_date": "2023-06-04"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 4661,
+        "vaccination_date": "2023-04-24"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 1,
+        "patient_id": 1152,
+        "vaccination_date": "2023-10-17"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 6810,
+        "vaccination_date": "2023-09-04"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 4975,
+        "vaccination_date": "2023-05-28"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 6606,
+        "vaccination_date": "2023-09-07"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 6594,
+        "vaccination_date": "2023-03-27"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 5147,
+        "vaccination_date": "2023-09-09"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 2,
+        "patient_id": 7326,
+        "vaccination_date": "2023-04-30"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 1,
+        "patient_id": 2747,
+        "vaccination_date": "2023-11-21"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 2,
+        "patient_id": 2674,
+        "vaccination_date": "2023-04-18"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 2,
+        "patient_id": 8883,
+        "vaccination_date": "2023-03-30"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 4122,
+        "vaccination_date": "2023-05-25"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 6391,
+        "vaccination_date": "2023-02-06"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 3,
+        "patient_id": 7670,
+        "vaccination_date": "2023-05-18"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 7300,
+        "vaccination_date": "2023-07-01"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 3,
+        "patient_id": 2186,
+        "vaccination_date": "2023-05-16"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 2271,
+        "vaccination_date": "2023-10-25"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 3239,
+        "vaccination_date": "2023-11-08"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 1404,
+        "vaccination_date": "2023-12-02"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 2334,
+        "vaccination_date": "2023-05-07"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 8371,
+        "vaccination_date": "2023-03-02"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 1,
+        "patient_id": 2815,
+        "vaccination_date": "2023-05-11"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 2,
+        "patient_id": 2968,
+        "vaccination_date": "2023-04-03"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 7523,
+        "vaccination_date": "2023-01-30"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 3493,
+        "vaccination_date": "2023-04-06"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 1,
+        "patient_id": 5973,
+        "vaccination_date": "2023-09-29"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 2269,
+        "vaccination_date": "2023-10-09"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 6203,
+        "vaccination_date": "2023-04-13"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 2,
+        "patient_id": 3045,
+        "vaccination_date": "2023-10-01"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 5053,
+        "vaccination_date": "2023-06-24"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 1,
+        "patient_id": 9487,
+        "vaccination_date": "2023-07-05"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 7061,
+        "vaccination_date": "2023-12-13"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 6262,
+        "vaccination_date": "2023-07-17"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 3,
+        "patient_id": 7750,
+        "vaccination_date": "2023-07-31"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 7305,
+        "vaccination_date": "2023-08-17"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 3,
+        "patient_id": 4541,
+        "vaccination_date": "2023-10-18"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 2,
+        "patient_id": 1955,
+        "vaccination_date": "2023-01-01"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 9014,
+        "vaccination_date": "2023-05-27"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 2,
+        "patient_id": 8272,
+        "vaccination_date": "2023-05-23"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 1,
+        "patient_id": 4042,
+        "vaccination_date": "2023-04-03"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 9465,
+        "vaccination_date": "2023-03-31"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 2,
+        "patient_id": 1777,
+        "vaccination_date": "2023-10-07"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 5202,
+        "vaccination_date": "2023-02-28"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 6449,
+        "vaccination_date": "2023-07-17"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 2689,
+        "vaccination_date": "2023-06-05"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 1,
+        "patient_id": 3015,
+        "vaccination_date": "2023-08-30"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 1,
+        "patient_id": 9340,
+        "vaccination_date": "2023-08-03"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 1,
+        "patient_id": 5756,
+        "vaccination_date": "2023-03-25"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 6903,
+        "vaccination_date": "2023-05-20"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 8502,
+        "vaccination_date": "2023-01-30"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 5568,
+        "vaccination_date": "2023-11-26"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 1,
+        "patient_id": 1873,
+        "vaccination_date": "2023-11-17"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 2,
+        "patient_id": 4359,
+        "vaccination_date": "2023-11-07"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 1799,
+        "vaccination_date": "2023-06-14"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 1100,
+        "vaccination_date": "2023-01-18"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 3,
+        "patient_id": 8321,
+        "vaccination_date": "2023-10-23"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 2170,
+        "vaccination_date": "2022-12-26"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 5947,
+        "vaccination_date": "2023-09-25"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 2,
+        "patient_id": 8471,
+        "vaccination_date": "2023-07-19"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 7131,
+        "vaccination_date": "2023-09-28"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 7253,
+        "vaccination_date": "2023-09-27"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 3,
+        "patient_id": 2429,
+        "vaccination_date": "2023-07-18"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 3,
+        "patient_id": 2406,
+        "vaccination_date": "2023-05-09"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 1517,
+        "vaccination_date": "2023-04-21"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 1,
+        "patient_id": 9547,
+        "vaccination_date": "2023-03-25"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 1,
+        "patient_id": 3222,
+        "vaccination_date": "2023-07-18"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 2,
+        "patient_id": 1993,
+        "vaccination_date": "2023-10-11"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 9812,
+        "vaccination_date": "2023-12-05"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 7227,
+        "vaccination_date": "2023-06-30"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 5896,
+        "vaccination_date": "2023-08-16"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 1119,
+        "vaccination_date": "2023-06-14"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 9640,
+        "vaccination_date": "2023-05-10"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 3207,
+        "vaccination_date": "2023-02-07"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 1,
+        "patient_id": 4799,
+        "vaccination_date": "2023-05-30"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 3,
+        "patient_id": 6364,
+        "vaccination_date": "2023-10-03"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 4819,
+        "vaccination_date": "2023-09-13"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 3,
+        "patient_id": 9673,
+        "vaccination_date": "2023-07-14"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 2,
+        "patient_id": 1903,
+        "vaccination_date": "2023-10-29"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 8693,
+        "vaccination_date": "2023-11-05"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 2,
+        "patient_id": 2781,
+        "vaccination_date": "2023-01-20"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 1080,
+        "vaccination_date": "2023-10-13"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 1,
+        "patient_id": 6531,
+        "vaccination_date": "2023-04-25"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 2,
+        "patient_id": 7528,
+        "vaccination_date": "2023-07-13"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 1,
+        "patient_id": 3106,
+        "vaccination_date": "2023-02-05"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 1873,
+        "vaccination_date": "2023-09-23"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 2,
+        "patient_id": 5104,
+        "vaccination_date": "2023-07-03"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 9795,
+        "vaccination_date": "2023-12-09"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 2,
+        "patient_id": 5606,
+        "vaccination_date": "2023-06-17"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 2,
+        "patient_id": 4322,
+        "vaccination_date": "2023-10-22"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 4090,
+        "vaccination_date": "2023-12-15"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 6520,
+        "vaccination_date": "2023-05-08"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 5710,
+        "vaccination_date": "2023-03-04"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 3064,
+        "vaccination_date": "2023-03-25"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 3004,
+        "vaccination_date": "2023-05-20"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 5094,
+        "vaccination_date": "2023-06-20"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 2,
+        "patient_id": 2702,
+        "vaccination_date": "2023-08-15"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 3762,
+        "vaccination_date": "2023-12-15"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 2,
+        "patient_id": 4632,
+        "vaccination_date": "2023-02-16"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 2,
+        "patient_id": 4037,
+        "vaccination_date": "2023-03-14"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 9256,
+        "vaccination_date": "2023-05-21"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 5447,
+        "vaccination_date": "2023-03-27"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 3,
+        "patient_id": 9476,
+        "vaccination_date": "2023-06-12"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 3,
+        "patient_id": 5490,
+        "vaccination_date": "2023-05-03"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 6033,
+        "vaccination_date": "2023-01-22"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 2056,
+        "vaccination_date": "2023-08-01"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 1097,
+        "vaccination_date": "2023-11-21"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 8409,
+        "vaccination_date": "2023-05-12"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 4476,
+        "vaccination_date": "2023-01-10"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 1649,
+        "vaccination_date": "2023-05-20"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 3,
+        "patient_id": 9055,
+        "vaccination_date": "2023-04-19"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 2675,
+        "vaccination_date": "2023-04-18"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 3160,
+        "vaccination_date": "2023-09-26"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 1054,
+        "vaccination_date": "2023-03-30"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 3,
+        "patient_id": 8878,
+        "vaccination_date": "2023-10-20"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 2135,
+        "vaccination_date": "2023-04-28"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 5911,
+        "vaccination_date": "2023-09-27"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 7383,
+        "vaccination_date": "2023-10-25"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 2,
+        "patient_id": 5591,
+        "vaccination_date": "2023-04-16"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 5947,
+        "vaccination_date": "2023-02-03"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 3,
+        "patient_id": 5963,
+        "vaccination_date": "2023-02-18"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 2174,
+        "vaccination_date": "2023-10-25"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 9733,
+        "vaccination_date": "2023-05-01"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 2370,
+        "vaccination_date": "2023-09-30"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 3,
+        "patient_id": 3270,
+        "vaccination_date": "2023-10-01"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 4650,
+        "vaccination_date": "2023-07-09"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 3963,
+        "vaccination_date": "2023-01-07"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 2560,
+        "vaccination_date": "2023-03-29"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 1,
+        "patient_id": 7414,
+        "vaccination_date": "2023-01-12"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 7082,
+        "vaccination_date": "2023-08-21"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 3332,
+        "vaccination_date": "2023-01-30"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 1,
+        "patient_id": 6002,
+        "vaccination_date": "2023-02-18"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 4466,
+        "vaccination_date": "2023-10-14"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 2220,
+        "vaccination_date": "2023-08-25"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 3,
+        "patient_id": 5829,
+        "vaccination_date": "2023-06-21"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 2289,
+        "vaccination_date": "2023-04-28"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 5279,
+        "vaccination_date": "2023-11-07"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 4480,
+        "vaccination_date": "2023-01-28"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 7877,
+        "vaccination_date": "2023-10-27"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 2,
+        "patient_id": 1516,
+        "vaccination_date": "2023-03-10"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 1,
+        "patient_id": 7496,
+        "vaccination_date": "2022-12-31"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 8429,
+        "vaccination_date": "2023-11-23"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 3,
+        "patient_id": 9651,
+        "vaccination_date": "2023-12-08"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 1,
+        "patient_id": 6222,
+        "vaccination_date": "2023-11-28"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 5177,
+        "vaccination_date": "2023-09-23"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 8776,
+        "vaccination_date": "2023-11-23"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 2832,
+        "vaccination_date": "2023-08-25"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 2021,
+        "vaccination_date": "2023-04-14"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 3,
+        "patient_id": 5702,
+        "vaccination_date": "2023-02-10"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 2,
+        "patient_id": 3400,
+        "vaccination_date": "2023-07-22"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 4156,
+        "vaccination_date": "2023-03-20"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 6777,
+        "vaccination_date": "2023-06-19"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 3,
+        "patient_id": 1606,
+        "vaccination_date": "2023-01-05"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 8749,
+        "vaccination_date": "2023-08-05"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 9540,
+        "vaccination_date": "2023-07-15"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 1198,
+        "vaccination_date": "2023-04-21"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 1,
+        "patient_id": 3722,
+        "vaccination_date": "2023-01-12"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 8006,
+        "vaccination_date": "2023-02-17"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 2,
+        "patient_id": 9458,
+        "vaccination_date": "2023-02-23"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 3,
+        "patient_id": 8813,
+        "vaccination_date": "2023-03-21"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 6234,
+        "vaccination_date": "2023-01-19"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 2344,
+        "vaccination_date": "2023-07-03"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 6201,
+        "vaccination_date": "2023-11-03"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 1,
+        "patient_id": 9162,
+        "vaccination_date": "2023-09-26"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 3,
+        "patient_id": 2592,
+        "vaccination_date": "2023-01-16"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 3,
+        "patient_id": 1298,
+        "vaccination_date": "2023-04-22"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 3,
+        "patient_id": 1678,
+        "vaccination_date": "2023-08-12"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 2,
+        "patient_id": 7922,
+        "vaccination_date": "2022-12-25"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 2,
+        "patient_id": 6007,
+        "vaccination_date": "2022-12-26"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 7450,
+        "vaccination_date": "2023-04-27"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 2271,
+        "vaccination_date": "2023-10-23"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 1,
+        "patient_id": 4237,
+        "vaccination_date": "2023-04-15"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 1,
+        "patient_id": 2599,
+        "vaccination_date": "2023-11-30"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 8950,
+        "vaccination_date": "2023-01-08"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 2,
+        "patient_id": 4252,
+        "vaccination_date": "2023-04-13"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 7907,
+        "vaccination_date": "2023-04-21"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 1961,
+        "vaccination_date": "2023-09-05"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 3,
+        "patient_id": 8469,
+        "vaccination_date": "2023-07-11"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 5049,
+        "vaccination_date": "2023-02-23"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 2,
+        "patient_id": 8345,
+        "vaccination_date": "2023-05-17"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 9871,
+        "vaccination_date": "2023-01-23"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 3,
+        "patient_id": 3293,
+        "vaccination_date": "2023-06-27"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 6572,
+        "vaccination_date": "2023-02-07"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 2,
+        "patient_id": 9299,
+        "vaccination_date": "2023-05-12"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 3131,
+        "vaccination_date": "2023-08-06"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 1072,
+        "vaccination_date": "2023-04-26"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 3803,
+        "vaccination_date": "2023-12-08"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 3,
+        "patient_id": 8870,
+        "vaccination_date": "2023-09-14"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 3,
+        "patient_id": 8722,
+        "vaccination_date": "2023-08-19"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 2932,
+        "vaccination_date": "2023-07-08"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 7255,
+        "vaccination_date": "2023-06-09"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 7458,
+        "vaccination_date": "2023-08-02"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 3224,
+        "vaccination_date": "2023-10-11"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 1822,
+        "vaccination_date": "2023-07-12"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 3,
+        "patient_id": 4642,
+        "vaccination_date": "2023-02-25"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 8586,
+        "vaccination_date": "2023-12-19"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 4473,
+        "vaccination_date": "2022-12-22"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 2,
+        "patient_id": 2987,
+        "vaccination_date": "2023-05-05"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 9476,
+        "vaccination_date": "2022-12-31"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 2,
+        "patient_id": 7374,
+        "vaccination_date": "2023-06-03"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 1146,
+        "vaccination_date": "2023-02-11"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 1,
+        "patient_id": 8673,
+        "vaccination_date": "2023-09-08"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 7952,
+        "vaccination_date": "2023-06-10"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 1,
+        "patient_id": 3222,
+        "vaccination_date": "2023-01-04"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 1989,
+        "vaccination_date": "2023-04-06"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 4594,
+        "vaccination_date": "2023-05-26"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 8619,
+        "vaccination_date": "2022-12-30"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 8025,
+        "vaccination_date": "2023-03-10"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 5443,
+        "vaccination_date": "2023-05-27"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 5107,
+        "vaccination_date": "2023-07-19"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 8883,
+        "vaccination_date": "2023-03-28"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 3668,
+        "vaccination_date": "2023-10-14"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 1,
+        "patient_id": 1922,
+        "vaccination_date": "2023-10-02"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 6210,
+        "vaccination_date": "2023-07-15"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 2,
+        "patient_id": 2275,
+        "vaccination_date": "2023-02-28"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 4585,
+        "vaccination_date": "2023-08-18"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 2,
+        "patient_id": 4448,
+        "vaccination_date": "2023-11-19"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 2,
+        "patient_id": 8956,
+        "vaccination_date": "2023-12-20"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 5928,
+        "vaccination_date": "2023-03-17"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 1,
+        "patient_id": 3285,
+        "vaccination_date": "2023-01-15"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 3619,
+        "vaccination_date": "2023-08-21"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 1,
+        "patient_id": 9699,
+        "vaccination_date": "2023-08-22"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 3,
+        "patient_id": 2042,
+        "vaccination_date": "2023-01-03"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 1,
+        "patient_id": 7662,
+        "vaccination_date": "2023-02-19"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 3,
+        "patient_id": 3945,
+        "vaccination_date": "2023-01-11"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 2,
+        "patient_id": 3114,
+        "vaccination_date": "2023-07-09"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 2,
+        "patient_id": 8423,
+        "vaccination_date": "2023-10-12"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 2,
+        "patient_id": 8444,
+        "vaccination_date": "2023-07-03"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 5663,
+        "vaccination_date": "2023-10-28"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 9144,
+        "vaccination_date": "2023-09-12"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 3,
+        "patient_id": 4992,
+        "vaccination_date": "2023-09-15"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 3268,
+        "vaccination_date": "2023-06-04"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 9675,
+        "vaccination_date": "2023-02-06"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 1,
+        "patient_id": 9568,
+        "vaccination_date": "2023-01-03"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 4635,
+        "vaccination_date": "2023-09-12"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 2,
+        "patient_id": 4343,
+        "vaccination_date": "2023-11-01"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 4294,
+        "vaccination_date": "2023-01-24"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 1089,
+        "vaccination_date": "2023-05-05"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 2,
+        "patient_id": 4140,
+        "vaccination_date": "2023-09-24"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 8960,
+        "vaccination_date": "2023-01-17"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 1,
+        "patient_id": 5354,
+        "vaccination_date": "2023-07-23"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 1,
+        "patient_id": 7333,
+        "vaccination_date": "2023-12-15"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 1,
+        "patient_id": 2392,
+        "vaccination_date": "2023-04-22"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 6216,
+        "vaccination_date": "2023-05-04"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 2864,
+        "vaccination_date": "2023-10-02"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 7257,
+        "vaccination_date": "2023-10-17"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 1,
+        "patient_id": 9752,
+        "vaccination_date": "2023-11-30"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 5465,
+        "vaccination_date": "2023-02-16"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 3693,
+        "vaccination_date": "2023-10-29"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 2327,
+        "vaccination_date": "2023-03-27"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 8389,
+        "vaccination_date": "2023-06-05"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 9909,
+        "vaccination_date": "2023-06-05"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 3,
+        "patient_id": 2960,
+        "vaccination_date": "2023-12-10"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 8128,
+        "vaccination_date": "2023-10-22"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 2455,
+        "vaccination_date": "2023-12-01"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 5357,
+        "vaccination_date": "2023-03-28"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 7776,
+        "vaccination_date": "2023-08-21"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 3606,
+        "vaccination_date": "2023-01-30"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 3361,
+        "vaccination_date": "2023-06-20"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 3,
+        "patient_id": 3087,
+        "vaccination_date": "2023-09-02"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 3,
+        "patient_id": 9824,
+        "vaccination_date": "2023-09-14"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 1,
+        "patient_id": 6769,
+        "vaccination_date": "2023-08-01"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 5306,
+        "vaccination_date": "2022-12-22"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 2745,
+        "vaccination_date": "2023-01-25"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 4012,
+        "vaccination_date": "2023-05-05"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 6702,
+        "vaccination_date": "2023-04-14"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 6924,
+        "vaccination_date": "2023-11-14"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 3,
+        "patient_id": 2975,
+        "vaccination_date": "2023-03-02"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 3,
+        "patient_id": 7826,
+        "vaccination_date": "2023-09-11"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 5904,
+        "vaccination_date": "2023-05-19"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 2,
+        "patient_id": 4086,
+        "vaccination_date": "2022-12-22"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 9104,
+        "vaccination_date": "2023-08-03"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 2,
+        "patient_id": 5074,
+        "vaccination_date": "2023-11-13"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 3,
+        "patient_id": 1300,
+        "vaccination_date": "2023-02-10"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 5704,
+        "vaccination_date": "2023-02-20"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 3451,
+        "vaccination_date": "2023-12-03"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 4409,
+        "vaccination_date": "2023-05-20"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 3098,
+        "vaccination_date": "2023-09-17"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 6959,
+        "vaccination_date": "2023-05-09"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 3,
+        "patient_id": 4683,
+        "vaccination_date": "2023-08-01"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 8197,
+        "vaccination_date": "2023-02-01"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 3,
+        "patient_id": 9799,
+        "vaccination_date": "2023-03-11"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 2,
+        "patient_id": 2174,
+        "vaccination_date": "2023-02-28"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 7851,
+        "vaccination_date": "2023-07-11"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 1,
+        "patient_id": 1677,
+        "vaccination_date": "2023-02-17"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 2,
+        "patient_id": 1017,
+        "vaccination_date": "2023-06-13"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 2,
+        "patient_id": 3740,
+        "vaccination_date": "2022-12-25"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 1213,
+        "vaccination_date": "2023-08-01"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 8792,
+        "vaccination_date": "2023-07-08"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 2,
+        "patient_id": 3078,
+        "vaccination_date": "2023-08-10"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 1,
+        "patient_id": 9400,
+        "vaccination_date": "2023-10-10"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 2,
+        "patient_id": 2726,
+        "vaccination_date": "2023-07-11"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 1,
+        "patient_id": 7757,
+        "vaccination_date": "2023-11-28"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 4583,
+        "vaccination_date": "2023-05-10"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 1,
+        "patient_id": 1667,
+        "vaccination_date": "2023-04-24"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 2,
+        "patient_id": 9839,
+        "vaccination_date": "2023-09-05"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 3967,
+        "vaccination_date": "2023-07-20"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 2286,
+        "vaccination_date": "2023-09-04"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 6890,
+        "vaccination_date": "2023-08-29"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 8044,
+        "vaccination_date": "2023-05-24"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 2198,
+        "vaccination_date": "2023-03-15"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 5253,
+        "vaccination_date": "2023-06-06"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 6148,
+        "vaccination_date": "2023-10-27"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 7218,
+        "vaccination_date": "2023-08-27"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 1,
+        "patient_id": 2347,
+        "vaccination_date": "2023-02-08"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 9580,
+        "vaccination_date": "2023-08-14"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 5640,
+        "vaccination_date": "2023-02-03"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 1,
+        "patient_id": 4009,
+        "vaccination_date": "2023-07-07"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 3856,
+        "vaccination_date": "2023-10-15"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 3,
+        "patient_id": 6821,
+        "vaccination_date": "2023-07-11"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 4701,
+        "vaccination_date": "2023-01-03"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 2003,
+        "vaccination_date": "2023-07-19"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 6887,
+        "vaccination_date": "2023-07-30"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 1,
+        "patient_id": 5612,
+        "vaccination_date": "2023-07-21"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 9651,
+        "vaccination_date": "2023-11-21"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 7101,
+        "vaccination_date": "2023-09-16"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 2662,
+        "vaccination_date": "2023-01-16"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 9530,
+        "vaccination_date": "2023-05-17"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 2,
+        "patient_id": 7241,
+        "vaccination_date": "2023-04-10"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 1329,
+        "vaccination_date": "2023-10-08"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 1,
+        "patient_id": 9964,
+        "vaccination_date": "2023-01-31"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 3,
+        "patient_id": 4154,
+        "vaccination_date": "2023-01-25"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 2823,
+        "vaccination_date": "2023-11-26"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 2429,
+        "vaccination_date": "2023-01-06"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 1,
+        "patient_id": 6626,
+        "vaccination_date": "2023-07-21"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 3,
+        "patient_id": 8128,
+        "vaccination_date": "2023-04-24"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 2248,
+        "vaccination_date": "2023-09-12"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 8061,
+        "vaccination_date": "2023-09-02"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 7975,
+        "vaccination_date": "2023-05-11"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 3,
+        "patient_id": 6459,
+        "vaccination_date": "2023-08-31"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 1,
+        "patient_id": 8599,
+        "vaccination_date": "2023-10-15"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 4462,
+        "vaccination_date": "2023-08-06"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 9908,
+        "vaccination_date": "2023-02-26"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 1,
+        "patient_id": 4838,
+        "vaccination_date": "2023-05-13"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 3284,
+        "vaccination_date": "2023-08-26"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 1,
+        "patient_id": 8626,
+        "vaccination_date": "2023-01-08"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 2,
+        "patient_id": 3959,
+        "vaccination_date": "2023-08-08"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 4511,
+        "vaccination_date": "2023-10-22"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 2,
+        "patient_id": 6130,
+        "vaccination_date": "2023-08-07"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 3,
+        "patient_id": 1841,
+        "vaccination_date": "2023-08-05"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 6845,
+        "vaccination_date": "2023-04-20"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 7510,
+        "vaccination_date": "2023-11-07"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 3,
+        "patient_id": 6944,
+        "vaccination_date": "2023-09-08"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 9649,
+        "vaccination_date": "2023-02-28"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 6575,
+        "vaccination_date": "2023-06-23"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 8445,
+        "vaccination_date": "2023-11-11"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 7336,
+        "vaccination_date": "2023-01-04"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 7951,
+        "vaccination_date": "2023-12-17"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 1,
+        "patient_id": 7716,
+        "vaccination_date": "2023-04-25"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 3,
+        "patient_id": 9789,
+        "vaccination_date": "2023-08-09"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 5135,
+        "vaccination_date": "2023-09-20"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 1,
+        "patient_id": 2366,
+        "vaccination_date": "2023-04-09"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 2,
+        "patient_id": 9556,
+        "vaccination_date": "2023-07-30"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 3969,
+        "vaccination_date": "2023-02-21"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 3,
+        "patient_id": 7845,
+        "vaccination_date": "2023-05-22"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 6935,
+        "vaccination_date": "2023-09-26"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 3,
+        "patient_id": 8206,
+        "vaccination_date": "2023-07-25"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 3,
+        "patient_id": 4449,
+        "vaccination_date": "2023-08-18"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 3591,
+        "vaccination_date": "2023-02-25"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 2,
+        "patient_id": 4039,
+        "vaccination_date": "2023-01-13"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 3,
+        "patient_id": 6239,
+        "vaccination_date": "2023-09-05"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 8508,
+        "vaccination_date": "2023-09-02"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 3,
+        "patient_id": 4944,
+        "vaccination_date": "2023-01-27"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 3,
+        "patient_id": 4656,
+        "vaccination_date": "2023-09-15"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 2,
+        "patient_id": 7453,
+        "vaccination_date": "2022-12-29"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 1659,
+        "vaccination_date": "2023-08-08"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 2117,
+        "vaccination_date": "2023-06-16"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 6471,
+        "vaccination_date": "2023-07-22"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 4743,
+        "vaccination_date": "2023-02-20"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 1,
+        "patient_id": 4960,
+        "vaccination_date": "2023-04-01"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 3391,
+        "vaccination_date": "2023-05-18"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 7699,
+        "vaccination_date": "2023-12-20"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 2012,
+        "vaccination_date": "2023-04-12"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 5924,
+        "vaccination_date": "2023-09-08"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 6570,
+        "vaccination_date": "2023-05-12"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 5329,
+        "vaccination_date": "2023-06-26"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 3,
+        "patient_id": 8315,
+        "vaccination_date": "2023-03-03"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 9168,
+        "vaccination_date": "2023-01-04"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 1,
+        "patient_id": 8194,
+        "vaccination_date": "2023-05-31"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 1005,
+        "vaccination_date": "2023-10-06"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 2,
+        "patient_id": 8607,
+        "vaccination_date": "2023-02-23"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 7501,
+        "vaccination_date": "2023-01-31"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 4571,
+        "vaccination_date": "2023-04-04"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 3521,
+        "vaccination_date": "2023-11-07"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 6779,
+        "vaccination_date": "2023-03-24"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 4183,
+        "vaccination_date": "2023-06-27"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 1328,
+        "vaccination_date": "2023-12-03"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 1069,
+        "vaccination_date": "2023-11-21"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 2709,
+        "vaccination_date": "2023-12-16"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 1,
+        "patient_id": 7080,
+        "vaccination_date": "2023-05-05"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 7106,
+        "vaccination_date": "2023-05-10"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 5229,
+        "vaccination_date": "2023-01-12"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 5159,
+        "vaccination_date": "2023-02-18"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 1950,
+        "vaccination_date": "2023-06-30"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 3,
+        "patient_id": 5853,
+        "vaccination_date": "2023-02-27"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 6373,
+        "vaccination_date": "2023-05-09"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 2,
+        "patient_id": 9515,
+        "vaccination_date": "2023-11-27"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 7940,
+        "vaccination_date": "2023-11-18"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 3180,
+        "vaccination_date": "2023-03-29"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 2,
+        "patient_id": 7012,
+        "vaccination_date": "2023-09-19"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 8327,
+        "vaccination_date": "2023-12-15"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 1197,
+        "vaccination_date": "2023-09-18"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 6809,
+        "vaccination_date": "2023-06-02"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 2,
+        "patient_id": 7082,
+        "vaccination_date": "2023-08-14"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 5583,
+        "vaccination_date": "2023-04-27"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 3,
+        "patient_id": 9474,
+        "vaccination_date": "2023-06-13"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 3,
+        "patient_id": 8810,
+        "vaccination_date": "2023-01-01"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 3893,
+        "vaccination_date": "2023-08-10"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 3591,
+        "vaccination_date": "2023-01-29"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 4009,
+        "vaccination_date": "2023-10-20"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 3749,
+        "vaccination_date": "2023-12-02"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 3015,
+        "vaccination_date": "2023-12-08"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 6957,
+        "vaccination_date": "2023-08-22"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 3702,
+        "vaccination_date": "2023-02-10"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 3966,
+        "vaccination_date": "2023-08-01"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 3,
+        "patient_id": 6092,
+        "vaccination_date": "2023-09-21"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 9816,
+        "vaccination_date": "2023-08-23"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 2683,
+        "vaccination_date": "2022-12-21"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 2,
+        "patient_id": 5137,
+        "vaccination_date": "2023-01-11"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 1,
+        "patient_id": 8028,
+        "vaccination_date": "2023-07-28"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 1,
+        "patient_id": 1395,
+        "vaccination_date": "2023-09-01"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 1,
+        "patient_id": 2221,
+        "vaccination_date": "2023-09-18"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 3933,
+        "vaccination_date": "2023-07-02"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 9397,
+        "vaccination_date": "2023-01-06"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 1,
+        "patient_id": 7424,
+        "vaccination_date": "2023-01-05"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 4664,
+        "vaccination_date": "2023-06-26"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 7483,
+        "vaccination_date": "2023-11-17"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 3600,
+        "vaccination_date": "2023-07-06"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 3,
+        "patient_id": 8345,
+        "vaccination_date": "2023-02-10"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 1,
+        "patient_id": 8097,
+        "vaccination_date": "2023-05-18"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 1,
+        "patient_id": 6035,
+        "vaccination_date": "2023-04-30"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 3,
+        "patient_id": 5204,
+        "vaccination_date": "2023-09-10"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 9876,
+        "vaccination_date": "2023-03-08"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 3,
+        "patient_id": 3865,
+        "vaccination_date": "2023-12-09"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 3,
+        "patient_id": 9964,
+        "vaccination_date": "2023-03-04"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 3372,
+        "vaccination_date": "2023-07-30"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 9795,
+        "vaccination_date": "2023-07-04"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 5807,
+        "vaccination_date": "2023-12-14"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 7831,
+        "vaccination_date": "2023-07-22"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 1,
+        "patient_id": 9434,
+        "vaccination_date": "2023-04-09"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 2,
+        "patient_id": 2424,
+        "vaccination_date": "2023-08-24"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 6149,
+        "vaccination_date": "2023-11-30"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 2,
+        "patient_id": 7185,
+        "vaccination_date": "2023-06-23"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 3580,
+        "vaccination_date": "2023-09-17"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 2,
+        "patient_id": 2324,
+        "vaccination_date": "2023-08-02"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 1,
+        "patient_id": 7006,
+        "vaccination_date": "2023-05-30"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 1264,
+        "vaccination_date": "2023-10-11"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 8346,
+        "vaccination_date": "2023-12-08"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 9664,
+        "vaccination_date": "2023-06-17"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 7081,
+        "vaccination_date": "2023-11-04"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 1626,
+        "vaccination_date": "2023-09-20"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 9049,
+        "vaccination_date": "2022-12-22"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 2,
+        "patient_id": 5844,
+        "vaccination_date": "2023-02-28"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 1,
+        "patient_id": 8151,
+        "vaccination_date": "2023-04-26"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 9789,
+        "vaccination_date": "2023-03-30"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 7427,
+        "vaccination_date": "2023-09-21"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 8961,
+        "vaccination_date": "2023-03-02"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 7655,
+        "vaccination_date": "2023-10-25"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 2052,
+        "vaccination_date": "2023-04-21"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 1,
+        "patient_id": 1301,
+        "vaccination_date": "2023-03-02"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 2521,
+        "vaccination_date": "2023-07-06"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 3,
+        "patient_id": 8378,
+        "vaccination_date": "2023-09-15"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 9640,
+        "vaccination_date": "2023-08-01"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 3,
+        "patient_id": 7319,
+        "vaccination_date": "2023-01-10"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 3,
+        "patient_id": 9949,
+        "vaccination_date": "2023-01-19"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 3,
+        "patient_id": 9156,
+        "vaccination_date": "2023-10-26"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 4375,
+        "vaccination_date": "2023-08-26"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 1,
+        "patient_id": 1069,
+        "vaccination_date": "2023-09-22"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 6213,
+        "vaccination_date": "2023-03-19"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 2355,
+        "vaccination_date": "2023-07-09"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 6607,
+        "vaccination_date": "2023-07-14"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 4552,
+        "vaccination_date": "2023-05-02"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 1,
+        "patient_id": 3136,
+        "vaccination_date": "2023-05-26"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 2334,
+        "vaccination_date": "2023-05-01"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 5873,
+        "vaccination_date": "2023-01-31"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 2,
+        "patient_id": 2067,
+        "vaccination_date": "2023-03-27"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 1,
+        "patient_id": 8198,
+        "vaccination_date": "2023-09-03"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 5846,
+        "vaccination_date": "2023-06-28"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 5650,
+        "vaccination_date": "2023-12-21"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 8514,
+        "vaccination_date": "2023-03-26"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 3,
+        "patient_id": 3767,
+        "vaccination_date": "2023-02-05"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 2731,
+        "vaccination_date": "2023-02-22"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 1187,
+        "vaccination_date": "2023-06-22"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 3,
+        "patient_id": 1027,
+        "vaccination_date": "2023-06-13"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 9842,
+        "vaccination_date": "2023-12-17"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 5236,
+        "vaccination_date": "2023-06-26"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 4862,
+        "vaccination_date": "2023-06-03"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 8310,
+        "vaccination_date": "2023-05-03"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 3250,
+        "vaccination_date": "2023-05-05"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 2707,
+        "vaccination_date": "2023-09-23"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 3,
+        "patient_id": 8980,
+        "vaccination_date": "2023-03-01"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 3308,
+        "vaccination_date": "2023-08-20"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 6667,
+        "vaccination_date": "2023-12-20"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 9328,
+        "vaccination_date": "2023-04-29"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 2692,
+        "vaccination_date": "2023-12-13"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 1,
+        "patient_id": 3792,
+        "vaccination_date": "2023-07-08"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 2,
+        "patient_id": 8849,
+        "vaccination_date": "2023-06-24"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 3,
+        "patient_id": 9270,
+        "vaccination_date": "2023-12-08"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 1,
+        "patient_id": 7809,
+        "vaccination_date": "2023-04-15"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 7799,
+        "vaccination_date": "2023-05-03"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 3,
+        "patient_id": 2768,
+        "vaccination_date": "2023-08-09"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 9242,
+        "vaccination_date": "2023-06-14"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 5935,
+        "vaccination_date": "2023-02-23"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 2247,
+        "vaccination_date": "2023-03-10"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 8569,
+        "vaccination_date": "2023-08-18"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 1324,
+        "vaccination_date": "2023-08-30"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 1,
+        "patient_id": 6287,
+        "vaccination_date": "2023-03-25"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 1,
+        "patient_id": 6376,
+        "vaccination_date": "2023-02-14"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 1082,
+        "vaccination_date": "2023-09-11"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 2,
+        "patient_id": 7647,
+        "vaccination_date": "2023-01-22"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 1430,
+        "vaccination_date": "2023-03-15"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 4166,
+        "vaccination_date": "2023-02-15"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 3256,
+        "vaccination_date": "2023-08-26"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 2,
+        "patient_id": 2807,
+        "vaccination_date": "2023-07-19"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 7842,
+        "vaccination_date": "2023-10-27"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 1,
+        "patient_id": 6266,
+        "vaccination_date": "2023-10-22"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 3,
+        "patient_id": 7126,
+        "vaccination_date": "2023-05-15"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 3626,
+        "vaccination_date": "2023-09-11"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 5954,
+        "vaccination_date": "2023-06-18"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 2,
+        "patient_id": 3298,
+        "vaccination_date": "2023-02-21"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 2,
+        "patient_id": 1370,
+        "vaccination_date": "2023-12-16"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 6182,
+        "vaccination_date": "2023-09-18"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 2504,
+        "vaccination_date": "2023-08-14"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 1,
+        "patient_id": 2755,
+        "vaccination_date": "2023-03-09"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 2,
+        "patient_id": 9890,
+        "vaccination_date": "2023-01-29"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 4990,
+        "vaccination_date": "2023-09-20"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 5220,
+        "vaccination_date": "2023-03-01"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 1,
+        "patient_id": 2613,
+        "vaccination_date": "2023-03-07"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 7641,
+        "vaccination_date": "2023-09-26"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 5166,
+        "vaccination_date": "2023-04-07"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 9480,
+        "vaccination_date": "2023-11-21"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 7021,
+        "vaccination_date": "2023-11-07"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 2,
+        "patient_id": 7404,
+        "vaccination_date": "2023-07-07"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 7077,
+        "vaccination_date": "2023-08-06"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 2,
+        "patient_id": 3138,
+        "vaccination_date": "2023-10-05"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 6478,
+        "vaccination_date": "2023-08-12"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 1,
+        "patient_id": 6619,
+        "vaccination_date": "2023-03-27"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 2732,
+        "vaccination_date": "2022-12-26"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 5295,
+        "vaccination_date": "2023-11-04"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 5163,
+        "vaccination_date": "2023-03-14"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 2,
+        "patient_id": 3637,
+        "vaccination_date": "2023-08-21"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 4609,
+        "vaccination_date": "2023-11-06"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 1338,
+        "vaccination_date": "2023-11-13"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 3,
+        "patient_id": 4819,
+        "vaccination_date": "2022-12-29"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 3122,
+        "vaccination_date": "2023-01-01"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 1,
+        "patient_id": 3940,
+        "vaccination_date": "2023-03-06"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 9326,
+        "vaccination_date": "2023-04-14"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 4293,
+        "vaccination_date": "2023-02-20"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 3,
+        "patient_id": 9227,
+        "vaccination_date": "2023-10-11"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 1,
+        "patient_id": 6981,
+        "vaccination_date": "2023-02-24"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 7069,
+        "vaccination_date": "2023-11-20"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 3,
+        "patient_id": 9890,
+        "vaccination_date": "2023-10-26"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 1094,
+        "vaccination_date": "2023-07-29"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 3,
+        "patient_id": 2429,
+        "vaccination_date": "2023-10-26"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 3,
+        "patient_id": 3159,
+        "vaccination_date": "2023-12-20"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 3,
+        "patient_id": 3785,
+        "vaccination_date": "2023-06-28"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 5662,
+        "vaccination_date": "2023-12-14"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 2740,
+        "vaccination_date": "2023-06-19"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 6196,
+        "vaccination_date": "2023-07-03"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 4927,
+        "vaccination_date": "2023-01-26"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 1899,
+        "vaccination_date": "2023-12-05"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 9928,
+        "vaccination_date": "2023-01-19"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 4814,
+        "vaccination_date": "2023-08-24"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 3,
+        "patient_id": 1219,
+        "vaccination_date": "2023-10-04"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 3,
+        "patient_id": 8902,
+        "vaccination_date": "2023-07-28"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 3565,
+        "vaccination_date": "2023-02-16"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 3,
+        "patient_id": 4079,
+        "vaccination_date": "2023-10-02"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 2703,
+        "vaccination_date": "2023-03-25"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 1551,
+        "vaccination_date": "2023-05-26"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 7763,
+        "vaccination_date": "2023-01-02"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 8648,
+        "vaccination_date": "2023-05-30"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 8630,
+        "vaccination_date": "2023-08-02"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 3,
+        "patient_id": 3488,
+        "vaccination_date": "2023-05-01"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 2451,
+        "vaccination_date": "2023-06-02"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 4418,
+        "vaccination_date": "2023-06-23"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 1061,
+        "vaccination_date": "2023-02-15"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 3,
+        "patient_id": 1639,
+        "vaccination_date": "2023-06-11"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 2,
+        "patient_id": 2839,
+        "vaccination_date": "2023-09-04"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 2,
+        "patient_id": 3701,
+        "vaccination_date": "2023-04-17"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 2435,
+        "vaccination_date": "2023-03-05"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 3358,
+        "vaccination_date": "2023-03-19"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 8213,
+        "vaccination_date": "2023-03-02"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 7011,
+        "vaccination_date": "2023-02-08"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 1,
+        "patient_id": 5567,
+        "vaccination_date": "2023-02-09"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 1263,
+        "vaccination_date": "2023-01-29"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 2678,
+        "vaccination_date": "2023-02-14"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 6747,
+        "vaccination_date": "2023-08-02"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 3,
+        "patient_id": 8300,
+        "vaccination_date": "2023-04-15"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 1087,
+        "vaccination_date": "2023-06-21"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 3,
+        "patient_id": 5788,
+        "vaccination_date": "2023-01-23"
+    },
+    {
+        "vaccine_name": "Johnson & Johnson COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 7388,
+        "vaccination_date": "2023-10-23"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 4225,
+        "vaccination_date": "2023-09-06"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 3832,
+        "vaccination_date": "2023-11-21"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 3,
+        "patient_id": 3080,
+        "vaccination_date": "2023-07-18"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 1,
+        "patient_id": 5112,
+        "vaccination_date": "2023-07-24"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 6278,
+        "vaccination_date": "2023-12-19"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 1,
+        "patient_id": 7895,
+        "vaccination_date": "2023-01-23"
+    },
+    {
+        "vaccine_name": "Hepatitis B Vaccine",
+        "dosage": 2,
+        "patient_id": 8367,
+        "vaccination_date": "2023-10-09"
+    },
+    {
+        "vaccine_name": "Influenza Vaccine",
+        "dosage": 2,
+        "patient_id": 6941,
+        "vaccination_date": "2023-01-09"
+    },
+    {
+        "vaccine_name": "Pfizer-BioNTech COVID-19 Vaccine",
+        "dosage": 1,
+        "patient_id": 7159,
+        "vaccination_date": "2023-03-19"
+    },
+    {
+        "vaccine_name": "Moderna COVID-19 Vaccine",
+        "dosage": 2,
+        "patient_id": 5796,
+        "vaccination_date": "2023-06-27"
+    }
+]
