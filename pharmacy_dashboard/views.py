@@ -22,19 +22,22 @@ from alpha_vantage.foreignexchange import ForeignExchange
 # Create your views here.
 def dashboard(request):
 
-    # image_base64 = Stock_Data()
-    # competitor_plot = Stock_of_Competitors()
-    # exchange_rate_text = Exchange_Rate()
+    image_base64 = Stock_Data()
+    competitor_plot = Stock_of_Competitors()
+    exchange_rate_text = Exchange_Rate()
     
-    # retail_sale = gdp_core_markets()
+    retail_sale = gdp_core_markets()
     trending_scks = trending_sickness()
+    vaccination_data = vaccination()
+
     
     context = {
-                # 'image_base64': image_base64,
-                # 'exchange_rate_text':exchange_rate_text,
-                # 'competitor_plot':competitor_plot,
-                # 'retail_sale':retail_sale
+                'image_base64': image_base64,
+                'exchange_rate_text':exchange_rate_text,
+                'competitor_plot':competitor_plot,
+                'retail_sale':retail_sale,
                 'trending_scks':trending_scks,
+                'vaccination_data': vaccination_data,
                }
 
     
@@ -310,4 +313,51 @@ def trending_sickness():
     
     return trending_scks
     
-  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+def vaccination():
+    # Read the generated dummy vaccination data from the JSON file
+    with open(settings.BASE_DIR/'pharmacy_dashboard/vaccination_data.json', 'r') as file:
+        vaccination_data = json.load(file)
+    
+
+    # Counting the number of vaccinations for each vaccine name
+    vaccine_counts = Counter(entry['vaccine_name'] for entry in vaccination_data)
+
+    # Calculating the total dosages administered
+    total_dosages = sum(entry['dosage'] for entry in vaccination_data)
+
+    # Analyzing vaccination trends over time
+    dates = [datetime.strptime(entry['vaccination_date'], '%Y-%m-%d') for entry in vaccination_data]
+    dates.sort()  # Sort dates
+    earliest_date = dates[0]
+    latest_date = dates[-1]
+
+    # Determine the range of vaccination dates
+    vaccination_range = (latest_date - earliest_date).days
+
+    vaccination_data = []
+    
+    # print("Vaccine Counts:")
+    for vaccine, count in vaccine_counts.items():
+        # print(f"{vaccine}: {count} vaccinations")
+        vaccination_data.append(f"{vaccine}: {count} vaccinations")
+
+    # print("\nVaccination Trend Over Time:\n")
+    # for i, date in enumerate(dates):
+    #     print(f"{i + 1}. {date.strftime('%Y-%m-%d')}")
+    # print("\n")
+    # daily_trend = [(365 / vaccination_range) * (i+1) for i in range(vaccination_range)]
+    
+    vaccination_data.append(f"Total Dosages Administered: {total_dosages}")
+    vaccination_data.append(f"Vaccination Period: {earliest_date.strftime('%Y-%m-%d')} to {latest_date.strftime('%Y-%m-%d')} ({vaccination_range} days)")
+
+    return vaccination_data
