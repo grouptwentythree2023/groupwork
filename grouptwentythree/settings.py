@@ -127,4 +127,12 @@ MEDIA_URL = 'media/'
 # Default primary key field type
 # https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field
 
+
+
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
+
+POLYGONE_API_KEY = 'Sin_EhpyFSnfE12NcRn59Z_eMQ79OAUb'
+ALPHA_API_KEY = 'URX2ICD9RB1ZP9IM'
+NEWS_API_KEY = 'e014c6709495444cb75f9b0339792aee'
+
